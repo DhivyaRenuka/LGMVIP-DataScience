@@ -1,2 +1,2 @@
-# -LGMVIP-DataScience
+# LGMVIP-DataScience
 LetsGrowMore Data Science Intern
